@@ -31,8 +31,5 @@
 		"email": "kami@kamisama.me",
 		"issues": "https://github.com/kamisama/php-resque-ex/issues",
 		"source": "https://github.com/kamisama/php-resque-ex"
-	},
-	"conflict": {
-		"chrisboulton/php-resque": "*"
 	}
 }
